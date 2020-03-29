@@ -5,7 +5,7 @@
   "main": "index.json",
   "repository": {
     "type": "git",
-    "url": "git@gitlab.woqutech.com:ued/q-prettier-config.git"
+    "url": "https://github.com/lovefishs/q-prettier-config.git"
   },
   "keywords": [
     "q-prettier-config"
