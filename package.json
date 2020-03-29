@@ -1,0 +1,15 @@
+{
+  "name": "q-prettier-config",
+  "version": "1.0.0",
+  "description": "Woqutech Prettier config",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.woqutech.com:ued/q-prettier-config.git"
+  },
+  "keywords": [
+    "q-prettier-config"
+  ],
+  "author": "ued.woqutech.com",
+  "license": "MIT"
+}
